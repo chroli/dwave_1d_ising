@@ -1,2 +1,3 @@
-dwave-ocean-sdk>=3.3.0
+rkdwave-ocean-sdk>=3.3.0
 matplotlib
+networkx
